@@ -1,4 +1,4 @@
-config RT2860V2_STA
+config  RT2860V2_STA
 	tristate "Ralink RT2860 802.11n STA support"
 	depends on NET_RADIO 
 
